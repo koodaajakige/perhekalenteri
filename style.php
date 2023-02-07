@@ -40,6 +40,7 @@ h1 {
 table {
   width: 100%;
   border-collapse: collapse;
+  colour: #fff;
 }
 
 tr {
