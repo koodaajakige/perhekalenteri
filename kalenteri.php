@@ -136,7 +136,7 @@
   echo "</table>";
 
 ?>
-<div class="footer">perhekalenteri by Kurpitsa</div>
+<div class="footer">perhekalenteri by Kige</div>
 
 </body>
 </html>
