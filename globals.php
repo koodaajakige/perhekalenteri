@@ -125,6 +125,11 @@
       "color" => "#e1c19b",
       "image" => "backgrounds/syysviljaa.jpg"
     ),
+    "kukkakuva" => array(
+      "name"  => "Kukkakuva",
+      "color" => "#e1c19b",
+      "image" => "backgrounds/kukkakuva.jpg"
+    ),
     "vadelmat" => array(
       "name"  => "Vadelmat",
       "color" => "#faa7b9",
